@@ -317,20 +317,6 @@ public:
     }
 };
 
-string manualSubstr(const string &str, unsigned int start, size_t length)
-{
-    string result = "";
-
-    if (start >= str.size())
-        return result;
-
-    for (unsigned int i = start; i < start + length && i < str.size(); ++i)
-    {
-        result += str[i];
-    }
-
-    return result;
-}
 bool isInteger(const string &str)
 {
     if (str.empty())
