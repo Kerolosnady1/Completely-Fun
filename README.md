@@ -3,6 +3,21 @@
 A C++ console application that combines a **playlist manager** with a **hybrid chatbot interface**.  
 You can control everything by typing **numbers** (e.g., `1`) or **natural language** (e.g., `add song`).
 
+---
+
+# 📸 App Shots
+
+## Landing
+![docs/screenshots/landing.png](https://github.com/Kerolosnady1/Completely-Fun/blob/master/docs/screenshots/landing.png)
+
+---
+
+## Commands
+
+![docs/screenshots/commands.png](https://github.com/Kerolosnady1/Completely-Fun/blob/master/docs/screenshots/commands.png?raw=true)
+
+---
+
 ## ✨ Features
 
 ### Core Playlist Management
